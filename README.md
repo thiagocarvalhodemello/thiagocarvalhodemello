@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-    <b>Eu sou o Thiago, um desenvolvedor apaixonado por diversas áreas desse maravilhoso mundo da tecnologia.</b>
+    <b>Eu sou o Thiago, um apaixonado por diversas áreas desse maravilhoso mundo da tecnologia.</b>
 </p>
 
 <p align="center">
@@ -28,16 +28,14 @@
 <details>
     <summary>Mais Sobre Mim</summary>
     <p>
-        Sou um estudante autodidata, introvertido e bem observador. <br />
-        Atualmente venho contribuindo com o mundo open source para colocar em prática os conhecimentos adquiridos em meus estudos. Também ajudo a galera que está iniciando na programação nas comunidades.
+        Sou um estudante de Sistemas de Informação, autodidata, apaixonado por tecnologia.<br />
+        Atualmente venho aprendendo mais sobre o universo de desenvolvimento web e de sistemas, contribuindo com o mundo open source para colocar em prática os conhecimentos adquiridos em meus estudos. Também ajudo a galera que está iniciando na programação nas comunidades.
     </p>
     <ul>
-        <li>🎓 Tecníco em Desenvolvimento de Sistema | ETEC</li>
+        <li>🎓 Sistema de Informação | FADERGS</li>
         <li>🎯 Contribuindo e criando projetos open source</li>
-        <li>📚 Estudando Python | Algoritmos | Dev Web | Inglês</li>
+        <li>📚 Estudando Javascript | Java | Dev Web | Inglês</li>
         <li>💬 Pode me fazer perguntas, gosto de ajudar!</li>
-        <li>🌑 Observando o espaço.</li>
-        <li>⚽ Jogo futsal quando possível.</li>
         <li>🎮 Me encontre no mundo dos games: <b>TheuzzLivee</b></li>
     </ul>
 </details>
