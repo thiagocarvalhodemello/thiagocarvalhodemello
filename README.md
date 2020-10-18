@@ -15,8 +15,6 @@
 <br />
 
 <p align="center">
-    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
-    <br/>
     <p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
     <br/><br/>
