@@ -17,13 +17,22 @@
 <p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
     <br/>
-    <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white&link=https://github.com/thiagocarvalhodemello" alt="Bradge Github" />
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white&link=https://t.me/ghoticman" alt="Bradge Telegram" />
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white&link=https://www.linkedin.com/in/thiago-carvalho-de-mello-98998b15b/" alt="Bradge LinkedIn" />
-    <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white&link=mailto:thiagocarvalhodemello@protonmail.com" alt="Bradge ProtonMail" />
+    <p align="center">
+    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
+    <br/><br/>
+    <a href="https://github.com/thiagocarvalhodemello" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
+    </a>
+    <a href="https://t.me/ghoticman" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/thiago-carvalho-de-mello-98998b15b" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
+    </a>
+    <a href="mailto:thiagocarvalhodemello@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
+    </a>
 </p>
-
----
 
 <details>
     <summary>Mais Sobre Mim</summary>
