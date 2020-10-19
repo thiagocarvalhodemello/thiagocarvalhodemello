@@ -43,7 +43,6 @@
         <li>🎯 Contribuindo e criando projetos open source</li>
         <li>📚 Estudando Javascript | Java | Dev Web | Inglês</li>
         <li>💬 Pode me fazer perguntas, gosto de ajudar!</li>
-        <li>🎮 Me encontre no mundo dos games: <b>TheuzzLivee</b></li>
     </ul>
 </details>
 
