@@ -28,7 +28,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
     </a>
     <a href="mailto:thiagocarvalhodemello@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
+        <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Bradge Gmail" />
     </a>
 </p>
 
