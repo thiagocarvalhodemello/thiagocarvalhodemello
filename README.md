@@ -33,7 +33,7 @@
 </p>
 
 <details>
-    <summary>Mais Sobre Mim</summary>
+    <summary>More about me</summary>
     <p>I am a self-taught Information Systems student, passionate about technology.<br />
         Currently I have been learning more about the universe of web and systems development, contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting to program in the communities.
     </p>
