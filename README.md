@@ -1,22 +1,22 @@
 ![Imagem Topo](./.github/assets/logo-topo.png)
 
 <h2 align="center">
-    Olá, Mundo. 👋
+    Hello, world. 👋
 </h2>
 
 <p align="center">
-    <b>Eu sou o Thiago, um apaixonado por diversas áreas desse maravilhoso mundo da tecnologia.</b>
+    <b>I'm Thiago, passionate about different areas of this wonderful world of technology.</b>
 </p>
 
 <p align="center">
-    Seja bem-vindo a meu github, aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
+    Welcome to my github, here you will find my projects and collaborations for the open source world.
 </p>
 
 <br />
 
 <p align="center">
     <p align="center">
-    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
+    <i>You can find me or contact me through these networks:</i>
     <br/><br/>
     <a href="https://github.com/thiagocarvalhodemello" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
@@ -34,26 +34,25 @@
 
 <details>
     <summary>Mais Sobre Mim</summary>
-    <p>
-        Sou um estudante de Sistemas de Informação, autodidata, apaixonado por tecnologia.<br />
-        Atualmente venho aprendendo mais sobre o universo de desenvolvimento web e de sistemas, contribuindo com o mundo open source para colocar em prática os conhecimentos adquiridos em meus estudos. Também ajudo a galera que está iniciando na programação nas comunidades.
+    <p>I am a self-taught Information Systems student, passionate about technology.<br />
+        Currently I have been learning more about the universe of web and systems development, contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting to program in the communities.
     </p>
     <ul>
-        <li>🎓 Sistema de Informação | FADERGS</li>
-        <li>🎯 Contribuindo e criando projetos open source</li>
-        <li>📚 Estudando Javascript | Java | Dev Web | Inglês</li>
-        <li>💬 Pode me fazer perguntas, gosto de ajudar!</li>
+        <li>🎓 Information system | FADERGS</li>
+        <li>🎯 Contributing and creating open source projects</li>
+        <li>📚 Studying Javascript | Java | Dev Web | English</li>
+        <li>💬 You can ask me questions, I like to help!</li>
     </ul>
 </details>
 
 <details>
-    <summary>Minhas Estátisticas no Github</summary>
+    <summary>My Statistics on Github</summary>
     <p align="center">
-        <b>Estátistica do Github</b> <br />
+        <b>Statistics on Github</b> <br />
         <img src="https://github-readme-stats.vercel.app/api?username=thiagocarvalhodemello&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
     </p>
     <p align="center">
-        <b>As techs utilizadas nos projetos</b> <br />
+        <b>The technologies used in the projects</b> <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagocarvalhodemello&theme=dark" alt="Techs utilizadas nos projetos" />
     </p>
 </details>
