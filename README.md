@@ -32,7 +32,7 @@
     </a>
 </p>
 
-![Snake animation]
+![Snake animation](https://github.com/thiagocarvalhodemello/thiagocarvalhodemello/blob/output/github-contribution-grid-snake.svg)
 
 <details>
     <summary>More about me</summary>
