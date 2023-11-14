@@ -32,6 +32,8 @@
     </a>
 </p>
 
+[Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+
 <details>
     <summary>More about me</summary>
     <p>I am a self-taught Information Systems student, passionate about technology.<br />
